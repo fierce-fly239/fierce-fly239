@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at Vedam School of Technology. Before college, I spent a summer as a Python intern at NXtutors, working on their live websites.
 
-**I write these myself:** Python, SQL, HTML, CSS, Java and the basics of JavaScript.
+**I write these myself:** Python, SQL, HTML, CSS, Java and JavaScript (basics, the DOM and event listeners).
 
 **I also build with AI.** I say so openly: I read what it writes, decide whether it's the right change, and test it before it goes live.
 
