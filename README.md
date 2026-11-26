@@ -2,13 +2,13 @@
 
 I'm a Computer Science student at Vedam School of Technology. Before college, I spent a summer as a Python intern at NXtutors, working on their live websites.
 
-**I write these myself:** Python, SQL, HTML, CSS, Java and JavaScript (basics, the DOM and event listeners).
+**I write these myself:** Python, SQL, HTML, CSS, Java and JavaScript.
 
-**I also build with AI.** I say so openly: I read what it writes, decide whether it's the right change, and test it before it goes live.
+**I run three online businesses:** [CalmNCalculated](https://calmncalculated.com), [ThreadsWellThought](https://threadswellthought.com) and [Khurafatee](https://khurafatee.com), all live and taking orders.
 
 **Have a look at:**
 - [QuantumRoute](https://github.com/fierce-fly239/quantumroute): our Smart India Hackathon 2026 project, a fleet route optimiser
-- [GrindArena](https://grindarena.vercel.app): one public profile for all your coding sites, live
+- [GrindArena](https://grindarena.vercel.app): one public profile for all your coding sites, built with a friend, live
 - [MiniMsgRoom](https://github.com/fierce-fly239/MiniMsgRoom): a terminal chatroom I built in Python with a friend
 
 **Find me on:** [LinkedIn](https://www.linkedin.com/in/vrishankkuthiala/) · [LeetCode](https://leetcode.com/u/Fierce_Fly239/)
